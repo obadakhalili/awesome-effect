@@ -47,6 +47,8 @@ _Official resources_
 
 ## Articles
 
+- [The Comprehensive Guide to Effect](https://github.com/obadakhalili/the-comprehensive-guide-to-effect) - How does Effect work under-the-hood and what is the problem it solves?
+
 ## Examples
 
 - [Effect-TS/examples](https://github.com/Effect-TS/examples) - A repository of examples showing how to use Effect
